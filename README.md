@@ -10,3 +10,8 @@
  - https://ユーザまたは組織名.github.io/リポジトリ名
  - got it
  - https://www.tam-tam.co.jp/tipsnote/html_css/post11245.html
+
+# http key の抜け方
+ - git config --global credential.helper cache
+
+# ssh key の抜け方
