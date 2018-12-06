@@ -1,8 +1,3 @@
-# copordrop
- - https://github.com/susoab/copordrop.git
- - git@github.com:susoab/copordrop.git
- - https://susoab.github.io/copordrop/
-
 # how to use github pages
  - make my repository
  - setting 
@@ -13,6 +8,11 @@
 `
 # http key の抜け方
  - git config --global credential.helper cache
+ 
+ # copordrop
+ - https://github.com/susoab/copordrop.git
+ - git@github.com:susoab/copordrop.git
+ - https://susoab.github.io/copordrop/
 
 # how to use "rust"
  - 公式サイトURL：https://www.rust-lang.org/
